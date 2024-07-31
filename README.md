@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Olia</h1>
-<h3 align="right">Recent graduate in Artificial Intelligence with experience in machine learning and computer vision. Currently seeking job or internship opportunities to grow in the AI field while staying open to new knowledge and opportunities. A creative individual with a passion for design, photo and video editing, and creating innovative content.</h3>
+<h1 align="left">Hi human👋, I'm Olia</h1>
+<h3 align="left">Recent graduate in Artificial Intelligence with experience in machine learning and computer vision. Currently seeking job or internship opportunities to grow in the AI field while staying open to new knowledge and opportunities. I'm a creative individual passionate about design, photo and video editing, and creating innovative content.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
