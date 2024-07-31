@@ -1,78 +1,23 @@
 <h1 align="left">Hi human👋, I'm Olia</h1>
 <h4 align="left">Recent graduate in Artificial Intelligence with experience in machine learning and computer vision. Currently looking for a job or internship to grow in the AI field while staying open to new knowledge and opportunities. I'm a creative individual passionate about design, photo and video editing, and creating innovative content.</h4>
 
-<h4 align="left">Connect with me:</h4>
+<!--<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/olhashvenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olhashvenda" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/olhashvenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olhashvenda" height="20" width="30" /></a>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Python</span>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">TensorFlow</span>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">PyTorch</span>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">pandas</span>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">OpenCV</span>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">scikit-learn</span>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">C</span>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">C#</span>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">CSS3</span>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">HTML5</span>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Oracle</span>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Django</span>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">.NET</span>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Git</span>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Arduino</span>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-    <span style="border: 2px solid; padding: 5px; margin-left: 5px;">Photoshop</span>
-  </a>
-</p>
+
+![Python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=%233776AB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=black&color=%23EE4C2C) ![pandas](https://img.shields.io/badge/pandas-red?style=for-the-badge&logo=pandas&labelColor=black&color=%23150458) ![OpenCV](https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=%235C3EE8&labelColor=black&color=%235C3EE8) ![scikit-learn](https://img.shields.io/badge/scikit--learn-red?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=black&color=%23F7931E)
+
+![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black&color=%23A8B9CC) ![C#](https://img.shields.io/badge/C%23-red?style=for-the-badge&logo=sharp&logoColor=%2399CC00&labelColor=black&color=%2399CC00) ![CSS3](https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26) ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=%23F80000&labelColor=black&color=%23F80000) ![Django](https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django&labelColor=black&color=%23092E20) ![.NET](https://img.shields.io/badge/.NET-red?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&labelColor=black&color=%23512BD4) ![Static Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=%23F05032) ![Arduino](https://img.shields.io/badge/Arduino-red?style=for-the-badge&logo=arduino&logoColor=%2300878F&labelColor=black&color=%2300878F) ![Photoshop](https://img.shields.io/badge/Photoshop-red?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF&labelColor=black&color=%2331A8FF)
+
+
+
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olha133&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="olha133" /></p>
